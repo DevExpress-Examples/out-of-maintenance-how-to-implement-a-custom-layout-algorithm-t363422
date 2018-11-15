@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomLayoutAlgorithm.cs](./CS/CustomLayoutAlgorithmSample/CustomLayoutAlgorithm.cs) (VB: [CustomLayoutAlgorithm.vb](./VB/CustomLayoutAlgorithmSample/CustomLayoutAlgorithm.vb))**
+* [Form1.cs](./CS/CustomLayoutAlgorithmSample/Form1.cs) (VB: [Form1.vb](./VB/CustomLayoutAlgorithmSample/Form1.vb))
+<!-- default file list end -->
 # How to: Implement a custom layout algorithm
 
 
